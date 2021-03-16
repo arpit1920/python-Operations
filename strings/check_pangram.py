@@ -1,5 +1,3 @@
-# Created by sarathkaul on 12/11/19
-
 
 def check_pangram(
     input_str: str = "The quick brown fox jumps over the lazy dog",
